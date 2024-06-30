@@ -7,23 +7,6 @@
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbelek&label=Profile%20views&color=0e75b6&style=flat" alt="devbelek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbelek" alt="devbelek" /></a> </p>
-
-- 🔭 I’m currently working on [Gimnasium](https://github.com/devbelek/Gimnasium.git)
-
-- 🌱 I’m currently learning **DB, DRF, Just Python**
-
-- 👯 I’m looking to collaborate on [TourismKG](https://github.com/devbelek/TourismKG.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/devbelek](https://github.com/devbelek)
-
-- 💬 Ask me about **Django, DB, Project managing**
-
-- 📫 How to reach me **belekasrarov10@gmail.com**
-
-- ⚡ Fun fact **I am so lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
