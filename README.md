@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Belek</h1>
 <h3 align="center">A backend developer from Kyrgyzstan</h3>
 
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbelek&label=Profile%20views&color=0e75b6&style=flat" alt="devbelek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbelek" alt="devbelek" /></a> </p>
